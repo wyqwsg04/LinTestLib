@@ -6,6 +6,6 @@ target 'LinTestLib_Example' do
   target 'LinTestLib_Tests' do
     inherit! :search_paths
 
-    pod 'Kiwi'
+#pod 'Kiwi'
   end
 end

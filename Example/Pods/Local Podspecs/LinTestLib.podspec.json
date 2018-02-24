@@ -18,5 +18,11 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "LinTestLib/Classes/**/*"
+  "source_files": "LinTestLib/Classes/**/*",
+  "resource_bundles": {
+    "LinTestLib": [
+      "LinTestLib/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/LinWebView.h"
 }

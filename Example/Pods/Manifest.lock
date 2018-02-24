@@ -1,9 +1,7 @@
 PODS:
-  - Kiwi (3.0.0)
   - LinTestLib (0.1.0)
 
 DEPENDENCIES:
-  - Kiwi
   - LinTestLib (from `../`)
 
 EXTERNAL SOURCES:
@@ -11,9 +9,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
-  LinTestLib: cd7e253de017013d2366521ae574d04363981a73
+  LinTestLib: f2c615702eaeb5a18eb5567a27ebd2f0dd896240
 
-PODFILE CHECKSUM: 10a6680bceab52b06463170a7aec99f91bf072ec
+PODFILE CHECKSUM: 0c7f8275da1e0292acb53354f819beed053eeffc
 
 COCOAPODS: 1.3.1

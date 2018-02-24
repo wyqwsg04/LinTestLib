@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "LinView.h"
+#import "LinViewController.h"
 #import "LinWebView.h"
 
 FOUNDATION_EXPORT double LinTestLibVersionNumber;

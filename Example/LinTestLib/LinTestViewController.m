@@ -6,14 +6,14 @@
 //  Copyright (c) 2018 wyqwsg04. All rights reserved.
 //
 
-#import "LinViewController.h"
+#import "LinTestViewController.h"
 #import "LinWebView.h"
 
-@interface LinViewController ()
+@interface LinTestViewController ()
 
 @end
 
-@implementation LinViewController
+@implementation LinTestViewController
 
 - (void)viewDidLoad
 {

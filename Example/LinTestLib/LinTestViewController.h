@@ -8,6 +8,6 @@
 
 @import UIKit;
 
-@interface LinViewController : UIViewController
+@interface LinTestViewController : UIViewController
 
 @end
