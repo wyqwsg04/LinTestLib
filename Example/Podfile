@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LinTestLib_Example' do
+  pod 'LinTestLib', :path => '../'
+
+  target 'LinTestLib_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end
