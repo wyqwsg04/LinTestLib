@@ -1,0 +1,6 @@
+framework module LinTestLib {
+  umbrella header "LinTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

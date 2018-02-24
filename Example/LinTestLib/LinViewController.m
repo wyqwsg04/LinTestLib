@@ -7,6 +7,7 @@
 //
 
 #import "LinViewController.h"
+#import "LinWebView.h"
 
 @interface LinViewController ()
 
@@ -18,6 +19,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    LinWebView* webView = [LinWebView new];
+    webView.backgroundColor = [UIColor redColor];
+    [self.view addSubview:webView];
+    webView.frame = self.view.bounds;
 }
 
 - (void)didReceiveMemoryWarning

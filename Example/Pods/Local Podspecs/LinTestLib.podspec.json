@@ -1,0 +1,22 @@
+{
+  "name": "LinTestLib",
+  "version": "0.1.0",
+  "summary": "LinTestLib for myself",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wyqwsg04/LinTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wyqwsg04": "fdzclsc@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wyqwsg04/LinTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LinTestLib/Classes/**/*"
+}

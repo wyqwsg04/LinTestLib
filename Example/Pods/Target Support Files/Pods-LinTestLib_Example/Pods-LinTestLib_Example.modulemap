@@ -1,0 +1,6 @@
+framework module Pods_LinTestLib_Example {
+  umbrella header "Pods-LinTestLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
